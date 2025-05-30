@@ -212,7 +212,7 @@ systemctl restart php8.3-fpm
 Visit your Koel server:
 
 ```
-https://sputify.org
+https://your-domain
 ```
 
 Log in, stream music, manage playlists, and invite others to enjoy your cloud music experience.
