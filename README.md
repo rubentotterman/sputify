@@ -4,6 +4,8 @@ Welcome to **Sputify**, a private, self-hosted music streaming service powered b
 
 ---
 
+![Benjamin Bannekat](https://raw.githubusercontent.com/rubentotterman/sputify/refs/heads/main/theme-dawn.t2QwyJDN.webp)
+
 ## 📦 Tech Stack
 
 - **Koel** – Laravel-based music streaming server  
